@@ -12,6 +12,6 @@ VS Code
 Authors
 Asha Vakkattil
 Credits
-Traversy Media - HTML Crash Course for absolute beginners
+Traversy Media - FlexBox CSS in 20 mintutes course
 License
 This project is licensed under the MIT License
